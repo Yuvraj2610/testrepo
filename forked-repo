@@ -1,0 +1,2 @@
+curl https://api.github.com/repos/Yuvraj2610/mcino-Introduction-to-Git-and-GitHub
+{"message":"API rate limit exceeded for 152.52.34.131. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)","documentation_url":"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"}
